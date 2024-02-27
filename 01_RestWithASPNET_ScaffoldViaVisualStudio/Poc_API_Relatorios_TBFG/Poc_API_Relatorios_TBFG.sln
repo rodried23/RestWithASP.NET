@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc_API_Relatorios_TBFG", "Poc_API_Relatorios_TBFG.csproj", "{EE14C639-3005-47D8-A02C-50932F3502FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE14C639-3005-47D8-A02C-50932F3502FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE14C639-3005-47D8-A02C-50932F3502FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE14C639-3005-47D8-A02C-50932F3502FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE14C639-3005-47D8-A02C-50932F3502FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEEC6CA1-5408-43CB-A3A1-5FE9838F75AE}
+	EndGlobalSection
+EndGlobal
